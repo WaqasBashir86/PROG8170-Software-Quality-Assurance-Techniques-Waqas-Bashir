@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "wFUbVU49ZYSlCvnZ50FLiQHajFM9a9B60b0SHK6KjG8mSonjaLBPfTZl0MLZi0p0yDggdhr0X/JhRllgBaAA/w==",
+  "dgSpecHash": "4ggvbSXytrsAHRoC2t30YwtxXM1D70jmlgmFtKyNb+FVEPdX+S9pP35euwm8ZdxBB1EDP5Sfm2m6doZoUHwxAw==",
   "success": true,
   "projectFilePath": "C:\\Users\\KASHI\\Documents\\GitHub\\PROG8170\\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\\WB_Assignment_01\\WB_Assignment_01\\WB_Assignment_01.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\KASHI\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\KASHI\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512"
+  ],
   "logs": []
 }
