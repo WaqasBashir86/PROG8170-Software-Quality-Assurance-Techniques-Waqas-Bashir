@@ -1,0 +1,15 @@
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_Assignment_01\WB_Assignment_01\bin\Debug\netcoreapp3.1\WB_Assignment_01.exe
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_Assignment_01\WB_Assignment_01\bin\Debug\netcoreapp3.1\WB_Assignment_01.deps.json
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_Assignment_01\WB_Assignment_01\bin\Debug\netcoreapp3.1\WB_Assignment_01.runtimeconfig.json
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_Assignment_01\WB_Assignment_01\bin\Debug\netcoreapp3.1\WB_Assignment_01.runtimeconfig.dev.json
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_Assignment_01\WB_Assignment_01\bin\Debug\netcoreapp3.1\WB_Assignment_01.dll
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_Assignment_01\WB_Assignment_01\bin\Debug\netcoreapp3.1\WB_Assignment_01.pdb
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_Assignment_01\WB_Assignment_01\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_Assignment_01\WB_Assignment_01\obj\Debug\netcoreapp3.1\WB_Assignment_01.csprojAssemblyReference.cache
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_Assignment_01\WB_Assignment_01\obj\Debug\netcoreapp3.1\WB_Assignment_01.AssemblyInfoInputs.cache
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_Assignment_01\WB_Assignment_01\obj\Debug\netcoreapp3.1\WB_Assignment_01.AssemblyInfo.cs
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_Assignment_01\WB_Assignment_01\obj\Debug\netcoreapp3.1\WB_Assignment_01.csproj.CoreCompileInputs.cache
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_Assignment_01\WB_Assignment_01\obj\Debug\netcoreapp3.1\WB_Assignment_01.csproj.CopyComplete
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_Assignment_01\WB_Assignment_01\obj\Debug\netcoreapp3.1\WB_Assignment_01.dll
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_Assignment_01\WB_Assignment_01\obj\Debug\netcoreapp3.1\WB_Assignment_01.pdb
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_Assignment_01\WB_Assignment_01\obj\Debug\netcoreapp3.1\WB_Assignment_01.genruntimeconfig.cache
