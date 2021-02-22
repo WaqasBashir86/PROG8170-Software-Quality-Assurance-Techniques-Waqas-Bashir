@@ -1,0 +1,11 @@
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1_Test\bin\Debug\WB_A1_Test.dll
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1_Test\bin\Debug\WB_A1_Test.pdb
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1_Test\bin\Debug\nunit.framework.dll
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1_Test\bin\Debug\WB_A1.exe
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1_Test\bin\Debug\WB_A1.pdb
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1_Test\bin\Debug\nunit.framework.xml
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1_Test\obj\Debug\WB_A1_Test.csprojAssemblyReference.cache
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1_Test\obj\Debug\WB_A1_Test.csproj.CoreCompileInputs.cache
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1_Test\obj\Debug\WB_A1_Test.csproj.CopyComplete
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1_Test\obj\Debug\WB_A1_Test.dll
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1_Test\obj\Debug\WB_A1_Test.pdb

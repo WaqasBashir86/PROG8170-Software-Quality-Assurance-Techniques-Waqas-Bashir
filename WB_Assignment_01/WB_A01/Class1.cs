@@ -3,10 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using NUnit.Framework;
+using WB_Assignment_01;
 
-
-namespace WB_A1_Test
+namespace WB_A01
 {
     public class Class1
     {

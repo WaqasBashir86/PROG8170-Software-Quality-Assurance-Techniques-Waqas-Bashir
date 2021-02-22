@@ -1,0 +1,9 @@
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1\bin\Debug\WB_A1.exe
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1\bin\Debug\WB_A1.pdb
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1\bin\Debug\nunit.framework.dll
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1\bin\Debug\nunit.framework.xml
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1\obj\Debug\WB_A1.csprojAssemblyReference.cache
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1\obj\Debug\WB_A1.csproj.CoreCompileInputs.cache
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1\obj\Debug\WB_A1.csproj.CopyComplete
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1\obj\Debug\WB_A1.exe
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\WB_A1\obj\Debug\WB_A1.pdb
