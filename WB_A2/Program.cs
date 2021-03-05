@@ -8,7 +8,7 @@ namespace WB_A2
 {
     public class Program
     {
-        static void Main(string[] arg)
+        public static void Main(string[] args)
         {
 
             char answer;
@@ -80,11 +80,6 @@ namespace WB_A2
 
         }
 
-        public string Analyze(int a, int b, int c)
-        {
-            throw new NotImplementedException();
-        }
-
         public static bool isNumber(string s)
         {
             for (int i = 0; i < s.Length; i++)
@@ -94,5 +89,7 @@ namespace WB_A2
             return true;
 
         }
+
+
     }
 }

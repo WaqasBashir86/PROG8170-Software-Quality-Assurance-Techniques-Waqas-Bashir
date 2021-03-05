@@ -8,11 +8,12 @@ using NUnit.Framework;
 
 namespace Triangle_Test
 {
+
     [TestFixture]
     public class Class1
     {
-
         TriangleSolver tr = new TriangleSolver();
+
 
         [Test]
 
@@ -23,7 +24,7 @@ namespace Triangle_Test
             int c = 7;
 
 
-            string output = Program.Analyze(a, b, c);   //Act
+            string output =   TriangleSolver.Analyze(a, b, c);   //Act
 
             Assert.AreEqual("Scalene Triangle", output);
         }
@@ -36,7 +37,7 @@ namespace Triangle_Test
             int c = 3;
 
 
-            string output = Program.Analyze(a, b, c);   //Act
+            string output = TriangleSolver.Analyze(a, b, c);   //Act
 
             Assert.AreNotEqual("Scalene Triangle", output);
         }
@@ -48,7 +49,7 @@ namespace Triangle_Test
             int c = 5;
 
 
-            string output = Program.Analyze(a, b, c);   //Act
+            string output = TriangleSolver.Analyze(a, b, c);   //Act
 
             Assert.AreEqual("Equilateral Triangle", output);
         }
@@ -60,7 +61,7 @@ namespace Triangle_Test
             int c = 8;
 
 
-            string output = Program.Analyze(a, b, c);   //Act
+            string output =  TriangleSolver.Analyze(a, b, c);   //Act
 
             Assert.AreNotEqual("Equilateral Triangle", output);
         }
@@ -72,7 +73,7 @@ namespace Triangle_Test
             int c = 8;
 
 
-            string output = Program.Analyze(a, b, c);   //Act
+            string output = TriangleSolver.Analyze(a, b, c);   //Act
 
             Assert.AreEqual("Isosceles Triangle", output);
         }
@@ -84,7 +85,7 @@ namespace Triangle_Test
             int c = 20;
 
 
-            string output = Program.Analyze(a, b, c);   //Act
+            string output = TriangleSolver.Analyze(a, b, c);   //Act
 
             Assert.AreNotEqual("Scalene Triangle", output);
         }

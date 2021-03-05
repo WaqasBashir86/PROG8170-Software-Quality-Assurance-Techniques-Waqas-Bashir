@@ -1,3 +1,13 @@
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\Triangle_Test\bin\Debug\Triangle_Test.dll
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\Triangle_Test\bin\Debug\Triangle_Test.pdb
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\Triangle_Test\bin\Debug\WB_A2.exe
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\Triangle_Test\bin\Debug\WB_A2.pdb
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\Triangle_Test\bin\Debug\WB_A2.exe.config
 C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\Triangle_Test\obj\Debug\Triangle_Test.csprojAssemblyReference.cache
 C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\Triangle_Test\obj\Debug\Triangle_Test.csproj.CoreCompileInputs.cache
-C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\Triangle_Test\obj\Debug\Triangle_Test.csprojFakesResolveAssemblyReference.cache
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\Triangle_Test\obj\Debug\Triangle_Test.csproj.CopyComplete
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\Triangle_Test\obj\Debug\Triangle_Test.dll
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\Triangle_Test\obj\Debug\Triangle_Test.pdb
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\Triangle_Test\bin\Debug\nunit.framework.dll
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\Triangle_Test\bin\Debug\nunit.framework.xml
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\Triangle_Test\bin\Debug\nunit.framework.pdb
