@@ -1,0 +1,3 @@
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\Triangle_Test\obj\Debug\Triangle_Test.csprojAssemblyReference.cache
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\Triangle_Test\obj\Debug\Triangle_Test.csproj.CoreCompileInputs.cache
+C:\Users\KASHI\Documents\GitHub\PROG8170\PROG8170Software-Quality-Assurance-Techniques-Waqas-Bashir\Triangle_Test\obj\Debug\Triangle_Test.csprojFakesResolveAssemblyReference.cache
