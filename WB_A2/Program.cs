@@ -8,8 +8,9 @@ namespace WB_A2
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] arg)
         {
+
             char answer;
             do
             {
@@ -78,6 +79,12 @@ namespace WB_A2
             } while (answer == 'y' || answer == 'Y');
 
         }
+
+        public string Analyze(int a, int b, int c)
+        {
+            throw new NotImplementedException();
+        }
+
         public static bool isNumber(string s)
         {
             for (int i = 0; i < s.Length; i++)

@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 
 namespace WB_A2
 {
-    class TriangleSolver
+    public class TriangleSolver
     {
 
         public static String Analyze(int a, int b, int c)
