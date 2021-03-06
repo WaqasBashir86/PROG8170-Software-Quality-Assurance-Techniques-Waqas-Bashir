@@ -106,9 +106,9 @@ namespace Triangle_Test
         [Test]
         public void Analyze8()
         {
-            int a = 10;
+            int a = 50;
             int b = 20;    //Arrange
-            int c = 30;
+            int c = 60;
 
 
             bool output = tr.checkValidity(a, b, c);   //Act
