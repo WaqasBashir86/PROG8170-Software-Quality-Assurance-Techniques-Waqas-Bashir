@@ -20,7 +20,7 @@ namespace WB_A2
 
                 Console.WriteLine("Enter your menu choice \n");
 
-                TriangleSolver tri = new TriangleSolver();
+                //TriangleSolver tri = new TriangleSolver();
                 var selection = Console.ReadLine();
 
                 if (isNumber(selection))
@@ -40,7 +40,7 @@ namespace WB_A2
                                 return;
                         }
 
-                        TriangleSolver tro = new TriangleSolver();
+                       // TriangleSolver tro = new TriangleSolver();
 
                         Console.Write("Input side 1 of triangle: ");
                         var a = Console.ReadLine();
@@ -88,7 +88,7 @@ namespace WB_A2
 
             return true;
 
-        }
+       }
 
 
     }

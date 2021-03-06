@@ -26,7 +26,7 @@ namespace Triangle_Test
 
             string output =   TriangleSolver.Analyze(a, b, c);   //Act
 
-            Assert.AreEqual("Scalene Triangle", output);
+            Assert.AreEqual("It is a Scalene Triangle", output);
         }
 
         [Test]
@@ -51,7 +51,7 @@ namespace Triangle_Test
 
             string output = TriangleSolver.Analyze(a, b, c);   //Act
 
-            Assert.AreEqual("Equilateral Triangle", output);
+            Assert.AreEqual("It is an Equilateral Triangle", output);
         }
         [Test]
         public void Analyze4()
@@ -63,7 +63,7 @@ namespace Triangle_Test
 
             string output =  TriangleSolver.Analyze(a, b, c);   //Act
 
-            Assert.AreNotEqual("Equilateral Triangle", output);
+            Assert.AreNotEqual("It is an Equilateral Triangle", output);
         }
         [Test]
         public void Analyze5()
@@ -75,7 +75,7 @@ namespace Triangle_Test
 
             string output = TriangleSolver.Analyze(a, b, c);   //Act
 
-            Assert.AreEqual("Isosceles Triangle", output);
+            Assert.AreEqual("It is an Isosceles Triangle", output);
         }
         [Test]
         public void Analyze6()
@@ -87,7 +87,7 @@ namespace Triangle_Test
 
             string output = TriangleSolver.Analyze(a, b, c);   //Act
 
-            Assert.AreNotEqual("Scalene Triangle", output);
+            Assert.AreNotEqual("It is an Isosceles Triangle", output);
         }
 
         [Test]
